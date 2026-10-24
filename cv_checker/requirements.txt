@@ -1,0 +1,2 @@
+pypdf>=4.0
+language-tool-python>=2.9  # opcional, requiere Java 17+

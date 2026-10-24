@@ -1,0 +1,18 @@
+Puesto: Técnico de Soporte TI
+Empresa: Empresa Ejemplo
+Requisitos:
+- Técnico o egresado en Computación e Informática
+- 2 años de experiencia en soporte TI
+- Windows Server, Active Directory
+- Cableado estructurado CAT6 y redes LAN
+- Inglés intermedio
+Deseable:
+- Certificación CCNA
+- Scripts de PowerShell
+- ITIL
+Funciones:
+- Atender tickets de mesa de ayuda
+- Administrar usuarios en Active Directory
+- Documentar procedimientos técnicos
+Beneficios:
+- Seguro EPS

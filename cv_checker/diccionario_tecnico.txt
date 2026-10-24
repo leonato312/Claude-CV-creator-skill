@@ -1,0 +1,18 @@
+# Términos técnicos válidos que el corrector en español marca como error.
+# Una o varias palabras por línea; lo que va después de # se ignora.
+# Agrega aquí marcas, software, siglas y tecnicismos de tu área.
+
+# Ingeniería / mecatrónica / electrónica
+mioeléctricos mioeléctrico combinacionales secuenciales cuadrotores cuadrotor multirrotor exoesqueleto
+biomecatrónica biomecatrónico bioimpresión biosensores mecatrónica mecatrónico mecatrónicos teleoperado telemonitoreo
+pinouts pinout firmware hardware software switches switch router routers rack racks userscript scripts script
+slicing laminado filamentos multímetro osciloscopio pasabanda pasabajos pasaaltos transistores mosfet
+grafcet ladder contactores relés inversores servomotores servomotor encoders encoder actuadores
+microcontroladores microcontrolador embebidos embebido robótica robóticos robóticas
+dataset datasets dashboard dashboards backend frontend framework frameworks
+online offline feedback stakeholders benchmark
+
+# Software y herramientas comunes
+matlab simulink python tensorflow keras pandas numpy excel powerpoint word autocad solidworks inventor
+ansys spaceclaim workbench kicad proteus fluidsim cadesimu latex arduino raspberry
+biosistemas biorgánicas biorgánico electroneumáticos electroneumático multimarca engranes downtime
